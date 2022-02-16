@@ -2,7 +2,7 @@
 html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  overscroll-behavior: none;
+  overscroll-behavior: auto;
   -ms-touch-action: none;
       touch-action: none;
 }
@@ -19,7 +19,7 @@ body {
   font-size: 16px;
   line-height: 1.55;
   background-color: white;
-  overscroll-behavior: none;
+  overscroll-behavior: auto;
   -ms-touch-action: none;
       touch-action: none;
 }
