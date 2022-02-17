@@ -50,6 +50,10 @@
        flex-direction: column-reverse;
         width: 314px;
         height: 457px;
+        &:hover{
+            transform: scale(1.1);
+            cursor: pointer;
+        }
         @media (max-width: 996px) {
             width: 45%;
         }

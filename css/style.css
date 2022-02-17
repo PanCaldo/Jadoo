@@ -779,6 +779,12 @@ img {
   height: 457px;
 }
 
+.selling__card:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  cursor: pointer;
+}
+
 @media (max-width: 996px) {
   .selling__card {
     width: 45%;
