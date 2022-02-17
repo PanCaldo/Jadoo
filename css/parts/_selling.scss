@@ -5,12 +5,12 @@
     }
 
     &__rome {
-        background: url(../img/rome.jpg);
+        background: url(../img/colosseum-rome.jpg);
         background-size: cover;
     }
 
     &__ben {
-        background: url(../img/tower.jpg);
+        background: url(../img/englandtwo.jpg);
         background-size: cover;
         @media (max-width: 607px) {
             margin-top: 20px;
@@ -18,8 +18,9 @@
     }
 
     &__eur {
-        background: url(../img/eur.png);
+        background: url(../img/eurtwo.jpeg);
         background-size: cover;
+        background-position: center;
         @media (max-width: 996px) {
             margin-top: 20px;
         }
