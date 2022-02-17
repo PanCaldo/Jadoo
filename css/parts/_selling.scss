@@ -12,6 +12,7 @@
     &__ben {
         background: url(../img/englandtwo.jpg);
         background-size: cover;
+        background-position: center;
         @media (max-width: 607px) {
             margin-top: 20px;
         }
@@ -20,7 +21,6 @@
     &__eur {
         background: url(../img/eurtwo.jpeg);
         background-size: cover;
-        background-position: center;
         @media (max-width: 996px) {
             margin-top: 20px;
         }

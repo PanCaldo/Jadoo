@@ -707,6 +707,7 @@ img {
 .selling__ben {
   background: url(../img/englandtwo.jpg);
   background-size: cover;
+  background-position: center;
 }
 
 @media (max-width: 607px) {
@@ -718,7 +719,6 @@ img {
 .selling__eur {
   background: url(../img/eurtwo.jpeg);
   background-size: cover;
-  background-position: center;
 }
 
 @media (max-width: 996px) {
